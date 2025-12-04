@@ -40,7 +40,7 @@ export default function ProductShowcase() {
             Prepare for Any <span className="text-gradient">Situation</span>
           </h2>
           <p className="text-lg sm:text-xl text-gray-400 max-w-3xl mx-auto">
-            Simulate challenging environments and predict your child's reactions before they happen
+            Simulate challenging environments and predict your child&apos;s reactions before they happen
           </p>
         </motion.div>
 
